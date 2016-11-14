@@ -6,5 +6,8 @@ p {
   text-align: center
 }
 body {
-  background-color: red 
+  background-color: red
+}
+input {
+  color: black;
 }
